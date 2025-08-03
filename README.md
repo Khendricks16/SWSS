@@ -1,5 +1,5 @@
 # SWSS
-The Smart Waste Sorting System (SWSS) is an automated solution that uses image recognition and motorized mechanisms to identify and sort waste items efficiently. This repository contains the source code developed for this engineering project, serving as a archive of the work.
+The Smart Waste Sorting System (SWSS) is an automated solution that uses image recognition and motorized mechanisms to identify and sort waste items efficiently. This repository contains the source code developed for this engineering project, serving as an archive of the work.
 <br>
 <br>
 This Smart Waste Sorting System was a 1st place winner in the 2025 First Year Engineering Design Day (FEDD) at North Carolina State University.
@@ -30,7 +30,7 @@ Contains all of the necessary python libraries/modules that should be installed 
 
 ### Underlying Hardware Components in Designed Frame
 <b>Note:</b> The following components are hardware that is used in the underlying frame but NOT an exhaustive list
-of all materials like (Wood, nails, etc.)
+of all materials like (wood, nails, etc.)
 
 * Raspberry Pi 4 Model B
 * Raspberry Pi Camera Module 2
