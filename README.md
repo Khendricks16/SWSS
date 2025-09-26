@@ -9,7 +9,7 @@ This Smart Waste Sorting System was a 1st place winner in the 2025 First Year En
 <ul>
     <li>Keith Hendricks (kdhendr2@ncsu.edu)</li>
     <li>Skyler Looney (saloone2@ncsu.edu)</li>
-    <li>tjlewis4@ncsu.edu (tjlewis4@ncsu.edu)</li>
+    <li>Tyler Lewis (tjlewis4@ncsu.edu)</li>
     <li>Brandon Mauldin (bsmauldi@ncsu.edu)</li>
 </ul>
 
